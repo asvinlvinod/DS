@@ -41,7 +41,8 @@ void main()
                     printf("%d",queue[i]);
                     printf("\n");
                 }
-                break;
+            }
+            break;
             case 4:
                 exit(0);
             default:
