@@ -1,11 +1,9 @@
 #include<stdio.h>
-#include<stdlib.h>
 #define n 5
 void main()
 {
     int queue[n],ch=1,front=0,rear=0,i,j=1,x=n;
-    printf("Queue using Array");
-    printf("\n1.Insertion \n2.Deletion \n3.Display \n4.Exit");
+    printf("Options:\n1.Insertion \n2.Deletion \n3.Display \n4.Exit");
     while(ch)
     {
         printf("\nEnter the Choice:");
@@ -51,5 +49,4 @@ void main()
             }
         }
     }
-    getch();
 }
