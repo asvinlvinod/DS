@@ -9,7 +9,7 @@ struct Node *link;
 int exp;
 int main()
 {
-int i,p,q,e,cf,f=0;
+int i,p,q,e,cf,f=0,exp;
 ph=(struct Node*)malloc(sizeof(struct Node));
 qh=(struct Node*)malloc(sizeof(struct Node));
 ph->link=NULL;
