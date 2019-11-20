@@ -32,5 +32,5 @@ int main()
   for (c = 0; c < n; c++)
      printf("%d\n", array[c]);
  
-  return 0;
+
 }
