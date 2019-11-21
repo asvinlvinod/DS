@@ -27,8 +27,8 @@ int main()
         printf("4. Delete at Beginning\n");
         printf("5. Delete_at_end \n");
         printf("6. Delete at any Position\n");
-        printf("7. Quit \n");
-        printf ("8. Display\n\n");
+        printf("7. Display \n");
+        printf ("8. \n\n");
 
         printf("Enter your choice : ");
         scanf("%d",&ch);
