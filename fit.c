@@ -3,7 +3,7 @@
 void main()
 {
 inti,j,temp,b[10],c[10],arr,n,ch,a;
-clrscr();
+
 printf("\t\t FIRST FIT, BEST FIT, WORST FIT\n");
 printf("Enter the size of no. of blocks:");
 scanf("%d",&n);
